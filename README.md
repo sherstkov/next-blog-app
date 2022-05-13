@@ -1,4 +1,4 @@
-## Next.js + Firebase
+# Next.js + Firebase
 
 This is a Next.js blog webapp. Information stored at Firestore. Build with Vite.
 ![image](https://user-images.githubusercontent.com/93656881/168215732-97eb4a61-ce8e-470a-a7fd-a9c55a233bdf.png)
